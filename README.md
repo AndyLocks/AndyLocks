@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me:
- - Name: **illia**
+ - Name: **Illia**
  - Years old: **17**
 
 ### :fire: My Stats:
