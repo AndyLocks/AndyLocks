@@ -4,13 +4,13 @@
  - Name: **Illia**
  - Years old: **17**
 
-### :fire: My Stats:
+### My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true)](https://www.youtube.com/@AndyIocks)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&layout=donut)](https://www.youtube.com/@AndyIocks)
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
