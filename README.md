@@ -5,10 +5,14 @@
  - Years old: **17**
 
 ### My Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true)](https://www.youtube.com/@AndyIocks)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&layout=donut)](https://www.youtube.com/@AndyIocks)
+<p align="center">
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true">
+    </span>
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&layout=donut">
+    </span>
+</p>
 
 ### Languages and Tools:
 <div>
