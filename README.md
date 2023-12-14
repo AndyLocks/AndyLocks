@@ -4,6 +4,8 @@
  - Name: **Illia**
  - Years old: **17**
 
+___
+
 ### My Stats:
 <p align="center">
     <span>
@@ -13,6 +15,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true">
     </span>
 </p>
+
+___
 
 ### Languages and Tools:
 <div>
