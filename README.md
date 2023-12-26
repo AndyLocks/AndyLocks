@@ -9,7 +9,7 @@ ___
 ### My Stats:
 <p align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&layout=donut&rank_icon=github">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&rank_icon=github&layout=donut">
     </span>
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true">
