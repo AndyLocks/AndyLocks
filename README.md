@@ -1,5 +1,4 @@
-### Hi there 👋
-___
+# Hi there 👋
 ### About me:
  - Name: **Illia**
  - Years old: **17**
