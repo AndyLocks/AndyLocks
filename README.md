@@ -12,7 +12,7 @@ ___
         <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true&rank_icon=github">
     </span>
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&hide_progress=true&langs_count=3">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&hide_progress=true&langs_count=4">
     </span>
 </p>
 
