@@ -25,10 +25,10 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="spring" width="40" height="40"/>&nbsp;
 </div>
 
 ___
 
 ### Top Repositories:
 <div align="center"><a href="https://github.com/AndyLocks/LegoTehSet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andylocks&repo=legotehset&theme=dracula&hide_border=true" /></a></div>
-<a href="https://github.com/AndyLocks?tab=repositories"><p align="right">:blush:</p></a>
