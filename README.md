@@ -29,5 +29,5 @@ ___
 
 ___
 
-### Top Repositories
+### Top Repositories:
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andylocks&repo=legotehset&theme=dracula&hide_border=true" /></div>
