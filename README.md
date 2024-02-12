@@ -8,10 +8,10 @@ ___
 ### My Stats:
 <p align="center">
    <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true&rank_icon=github">
+        <img src="https://github-readme-stats.vercel.app/api?username=AndyLocks&show_icons=true&rank_icon=github&theme=dracula">
     </span>
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&hide_progress=true&langs_count=4">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLocks&hide_progress=true&langs_count=4&theme=dracula">
     </span>
 </p>
 
