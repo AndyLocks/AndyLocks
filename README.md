@@ -3,6 +3,11 @@
  - Name: **Illia**
  - Years old: **17**
 
+### Hobbys:
+ - Speedcubing :zap:
+ - Video editing :movie_camera:
+ - Lego Technic :wrench:
+
 ___
 
 ### My Stats:
