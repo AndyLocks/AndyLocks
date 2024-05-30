@@ -37,7 +37,9 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="junit" alt="junit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <span>|</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
+  <span>:heart: |</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
 </div>
 
