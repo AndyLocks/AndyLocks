@@ -41,7 +41,7 @@ ___
 
 ### Main OS
 <div align="center">
-  <a href="https://aur.archlinux.org/account/AndyLocks"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="100" height="100"/>&nbsp;</a>
+  <a href="https://aur.archlinux.org/packages?K=AndyLocks&SeB=m"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="100" height="100"/>&nbsp;</a>
 </div>
 
 ___
