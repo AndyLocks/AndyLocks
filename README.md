@@ -3,7 +3,7 @@
 ### About me:
  - Name: **Illia**
  - Years old: **19**
- - [My public PGP key](http://andylocks.github.io/andy_public.asc)
+ - [My public **PGP key**](http://andylocks.github.io/andy_public.asc)
 
 ### Hobbys:
  - Speedcubing :zap:
