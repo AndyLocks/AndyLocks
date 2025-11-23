@@ -54,7 +54,7 @@ ___
 <br>
 <div align="center">
  <a href="https://github.com/AndyLocks/Mol"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andylocks&repo=mol&theme=dracula&hide_border=true" /></a>
- <a href="https://github.com/AndyLocks/PrisonersDilemma"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andylocks&repo=prisonersdilemma&theme=dracula&hide_border=true" /></a>
+ <a href="https://github.com/AndyLocks/andylocks.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andylocks&repo=andylocks.github.io&theme=dracula&hide_border=true" /></a>
 </div>
 
 
